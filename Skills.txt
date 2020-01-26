@@ -1,0 +1,7 @@
+HTML5
+JavaScript
+AJAX
+PHP
+MySQL
+CSS
+Control de sesiones y usuarios
